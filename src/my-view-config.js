@@ -5,7 +5,7 @@ export const myViewConfig = {
     datasets: [
       {
         uid: "A",
-        name: "JSON Files", // customizable
+        name: "JSON Files", // changeable
         files: [
           {
             url: "data/e11_processed_cells.json",
