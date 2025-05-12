@@ -1,0 +1,17 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "cell_number",
+        "Coronal Slice ID",
+        "timepoint",
+        "batch",
+        "n_genes_by_counts",
+        "total_counts",
+        "n_counts",
+        "leiden",
+        "cell_types",
+        "finer_cell_types"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}
